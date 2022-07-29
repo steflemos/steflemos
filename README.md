@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Stéfani
 
-- 🌱 Cursando Técnico em Desenvolvimento de Sistemas no SENAI
+- 🌱 Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
 - 😄 Pronouns: ela/dela
 
 <div display: inline_block>
