@@ -22,5 +22,7 @@
   <div>
 <a href = "https://br.linkedin.com/in/stefani-ferreira-25107b222?trk=people-guest_people_search-card" target ="-blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank" > </a>
     
+![Snake animation] (https://raw.githubusercontent.com/steflemos/steflemos/output/github-contribution-grid-snake.svg)
+    
   </div>
   
