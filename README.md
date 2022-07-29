@@ -20,7 +20,7 @@
   <img align = "center" alt = "stef-css" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align = "center" alt = "stef-css" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align = "center" alt = "stef-css" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align = "right" alt = "stef-img"  height = "150" width = "150" src = "https://picrew.me/shareImg/org/202207/338224_qye6VaJ2.png">
+  <img align = "right" alt = "stef-img"  height = "150" width = "150" src = "https://i.picasion.com/pic92/4ab4eaf58b4efcc9e059afa49d597faa.gif">
 </div>
   
   
