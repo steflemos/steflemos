@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Stéfani
 
 - 🌱 Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
+- 💬 Contate-me pelo email: stefanilemosferreira@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div display: inline_block>
@@ -16,10 +17,10 @@
   <img align = "center" alt = "stef-html" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align = "center" alt = "stef-react" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align = "center" alt = "stef-css" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align = "center" alt = "stef-css" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align = "center" alt = "stef-css" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align = "center" alt = "stef-css" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align = "center" alt = "stef-css" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align = "center" alt = "stef-typescript" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align = "center" alt = "stef-mysql" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align = "center" alt = "stef-postgresql" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align = "center" alt = "stef-nodejs" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align = "right" alt = "stef-img"  height = "150" width = "150" src = "https://i.picasion.com/pic92/52e81e9d20fe79759c3e16fed9bef947.gif">
 </div>
   
