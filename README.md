@@ -6,8 +6,8 @@
 
 <div display: inline_block>
   <a href = "https://github.com/steflemos">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=steflemos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly" alt="jolly-theme"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steflemos&&layout=compact&langs_count=12&title_color=F361D0&icon_color=281A3E&text_color=ffff&bg_color=281A3E" alt="most-languages-steflemos"/>
+   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=steflemos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly" alt="jolly-theme"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steflemos&&layout=compact&langs_count=12&title_color=F361D0&icon_color=281A3E&text_color=ffff&bg_color=281A3E" alt="most-languages-steflemos"/>
  
  </div>
   
