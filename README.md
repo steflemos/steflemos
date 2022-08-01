@@ -6,13 +6,13 @@
 
 <div display: inline_block>
   <a href = "https://github.com/steflemos">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=steflemos&show_icons=true&theme=radical">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steflemos&layout=compact&theme=radical ">
-
+   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=steflemos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly" alt="jolly-theme"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steflemos&&layout=compact&langs_count=12&title_color=F361D0&icon_color=281A3E&text_color=ffff&bg_color=281A3E" alt="most-languages-steflemos"/>
  
  </div>
   
 <div style="display: inline_block"><br>
+
   <h3>♦ Languages </h3>
   <img align = "center" alt = "stef-js" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align = "center" alt = "stef-html" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
