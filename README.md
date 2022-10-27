@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Stéfani
 
-- 🌱 Cursando técnico em Análise e Desenvolvimento de Sistemas no SENAI-SC
+- 🌱 Cursando técnico em Desenvolvimento de Sistemas no SENAI-SC
 - 💬 Contate-me pelo email: stefanilemosferreira@gmail.com
 - 😄 Pronouns: Ela/Dela
 
